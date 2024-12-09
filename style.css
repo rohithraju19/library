@@ -1,0 +1,54 @@
+body {
+    background: linear-gradient(to bottom right, #f5f5dc, #a69070, #8b5a2b);
+     color: #333;
+    background-size: cover;
+    }
+    
+
+nav{
+    background: linear-gradient(to right, #000, #333);
+}
+form{
+    width: 50%;
+}
+.signup_page{
+    background-image: url(images/signup_lib.jpg);
+    background-size: cover;
+}
+.container-form{
+    float: right;
+    width: 50%; 
+    margin-top: 20px;
+    margin-right: 10px;
+    background: rgba(255, 255, 255, 0.2);
+    background-size: 100px;
+    border-radius: 50px;
+    
+}
+.form .size{
+    width: 500px;
+    
+}
+.login{
+    background-image: url(images/home.jpg);
+    background-size: cover;
+
+}
+.container-form1{
+    float: right;
+    width: 50%;
+    margin-top: 20px;
+    margin-right: 10px;
+    background: rgba(255, 255, 255, 0.2);
+    
+    border-radius: 20px;
+}
+.container-form1 .log{
+    width: 300px;
+    padding: 10px;
+    margin: auto;
+} 
+.book{
+    background-image: url(images/book_lib.jpg);
+    background-size: cover;
+}
